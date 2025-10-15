@@ -89,12 +89,7 @@ let techStack = [
 ]
 ```
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=Caerus-Digital-LLC&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0066cc&icon_color=0066cc&text_color=333333)
-
 </div>
 
 ## 🤝 Connect With Us
