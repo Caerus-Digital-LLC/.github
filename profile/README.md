@@ -32,7 +32,7 @@ We specialize in **iOS app development** across the entire Apple ecosystem:
 
 ### Our Approach
 
-Founded by a retired U.S. Air Force pilot with 20+ years of aviation experience, we bring military precision and discipline to software development. Every app is crafted with:
+Founded by a retired U.S. Air Force officer with 20+ years of aviation experience, we bring military precision and discipline to software development. Every app is crafted with:
 
 - **Intuitive Design** - Effortless user experiences
 - **Purposeful Engineering** - Solutions that solve real problems
@@ -69,7 +69,7 @@ We combine aviation expertise with technology innovation to create software that
 
 **Matthew Scott Elmore** | Founder & Lead Developer
 
-- 🎖️ Retired U.S. Air Force Major (20+ years)
+- 🎖️ Retired U.S. Air Force Officer (20+ years)
 - ✈️ United Airlines First Officer (Boeing 787)
 - 💻 iOS Developer (10+ years experience)
 - 🛩️ Former U-2 Reconnaissance Pilot
